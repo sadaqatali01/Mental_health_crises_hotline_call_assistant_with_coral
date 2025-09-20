@@ -280,7 +280,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For technical support or crisis intervention resources:
 - **Technical Issues**: Create a GitHub issue
 - **Crisis Support**: Contact your local crisis hotline
-- **Documentation**: Check the `/docs` directory
 
 ---
 
